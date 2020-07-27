@@ -1,5 +1,6 @@
 # Tutorial MVVM con Fragmentos
 ![person-writing-on-white-paper-3815585](app/src/main/res/mipmap-hdpi/person-writing-on-white-paper-3815585.png)
+
 Este tutorial usa la plantilla de Navigation Drawer de Android Studio
 
 ## Primer paso: Creación del Modelo
